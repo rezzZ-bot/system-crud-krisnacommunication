@@ -22,5 +22,6 @@ Project portfolio CRUD sederhana berbasis website.
 - Reza Maulana
 
 ## Preview System
+<img width="1280" height="720" alt="WhatsApp Image 2026-05-25 at 19 02 03 - Copy" src="https://github.com/user-attachments/assets/ca53fa25-b054-4afd-acc0-9538793ab62c" />
 <img width="1280" height="720" alt="WhatsApp Image 2026-05-25 at 19 02 02 (1)" src="https://github.com/user-attachments/assets/72609aff-933e-427a-90dc-0af52d144b98" />
 
